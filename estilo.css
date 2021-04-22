@@ -1,0 +1,68 @@
+/*ponerle fondo de color rojo*/
+.malos {
+    background-color: red;
+}
+/*fondo de color azul*/
+.buenos {
+    background-color: rgb(50,50,200);
+}
+/*cambiar tamaño de la fuente*/
+#darth {
+    font-size: 150%;
+}
+/*cambiar estilo de la fuente*/
+#luke {
+    font-style: italic;
+}
+/*ponerle borde y espaciar las letras*/
+.soldados {
+    border-style: dashed;
+    border-color: greenyellow;
+    letter-spacing: 3px
+}
+/*Poner el texto en mayusculas*/
+.naves {
+    text-transform: uppercase;
+}
+/*cambiar tamaño de imagen*/
+.img {
+    height: auto;
+    width:auto ;
+    }
+/*quitarle la viñeta*/
+ul {
+    list-style: none;
+}
+
+li {
+    list-style: none;
+}
+/*cambiando el tipo de fuente*/
+body {
+    font-family: 'Press Start 2P', cursive;
+}
+/* centrando */
+ .centrado {
+    text-align: center;
+    font-size: 20px;
+}
+
+#idmalo {
+    background-color: blueviolet;
+
+}
+
+#idbueno {
+    background-color: coral;
+
+}
+
+#idoriginales {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    font-size: 140%;
+}
+
+.primerparrafo {
+    color: slategray;
+}
